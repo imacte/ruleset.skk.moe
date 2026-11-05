@@ -2,7 +2,7 @@
   "schema_version": 1,
   "upstream": "SukkaLab/ruleset.skk.moe",
   "branch": "master",
-  "upstream_commit": "1f05ee6b1fd6a54fc871ac5fe4d400748a5f182e",
+  "upstream_commit": "841a963ffba52b5d5625099cc622c18454e4f7ce",
   "mode": "merge-upstream",
-  "checked_at": "2026-11-04T23:37:28.760Z"
+  "checked_at": "2026-11-05T06:38:22.377Z"
 }
