@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "upstream": "SukkaLab/ruleset.skk.moe",
+  "upstream": "Minorescu/Surge",
   "branch": "master",
-  "upstream_commit": "1daa7ce11dd872759ef7a69f2eed6b50bff38382",
-  "mode": "merge-upstream",
-  "checked_at": "2026-11-12T15:05:46.564Z"
+  "upstream_commit": "a6bea6409a47d39423353aa10b22da070cd0d9ae",
+  "mode": "source-sync-preserving-owner-workflows",
+  "checked_at": "2026-11-15T16:21:08.809Z"
 }
