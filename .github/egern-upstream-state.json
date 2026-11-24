@@ -2,7 +2,7 @@
   "schema_version": 1,
   "upstream": "Minorescu/Surge",
   "branch": "master",
-  "upstream_commit": "1dc8dfc6d7864d44ac22e842c8879908cc44ac43",
+  "upstream_commit": "4cc54fe4465eb1dd5d1f374878917328b5c1ba53",
   "mode": "source-sync-preserving-owner-workflows",
-  "checked_at": "2026-11-23T23:49:18.171Z"
+  "checked_at": "2026-11-24T09:48:28.766Z"
 }
